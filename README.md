@@ -1,6 +1,6 @@
 # Balance Novels
 
-The Jupyter notebook in this repository describes and analyses the status quo of the roman18 corpus with respect to criteria such as author gender, year of first publication, narrative form etc. It then compares it to the "baseline" of the BGRF.
+The Jupyter notebook in this repository describes and analyses the status quo of the [roman18 corpus](https://github.com/MiMoText/roman18) with respect to criteria such as author gender, year of first publication, narrative form etc. It then compares it to the "baseline" of the BGRF.
 
 
 ## Prerequisites
@@ -34,3 +34,9 @@ python -m unittest discover
 ```
 
 Failing test cases are regressions and should therefore be considered as bugs. 
+
+
+## License
+
+This software is available under the terms of the MIT license
+
