@@ -1,7 +1,10 @@
 # Balance Novels
 
-The Jupyter notebook in this repository describes and analyses the status quo of the [roman18 corpus](https://github.com/MiMoText/roman18) with respect to criteria such as author gender, year of first publication, narrative form etc. It then compares it to the "baseline" of the BGRF.
+The Jupyter notebook in this repository describes and analyses the status quo of the [roman18 corpus](https://github.com/MiMoText/roman18) in the context of the ["Mining and Modeling Text"](https://www.mimotext.uni-trier.de/) project with respect to criteria such as author gender, year of first publication, narrative form etc. It then compares it to the "baseline" of the BGRF.
 
+BGRF data sources: 
+- Martin, Angus, Vivienne Mylne, und Richard L. Frautschi. Bibliographie du genre romanesque français, 1751-1800. London: Mansell, 1977.
+- Lüschow, Andreas. Bibliographie du genre romanesque français, 1751-1800: RDF model [Data set]. French. Trier: Trier University, 2019. http://doi.org/10.5281/zenodo.3401428.
 
 ## Prerequisites
 
